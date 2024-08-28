@@ -4,4 +4,4 @@ As of Sep. 2023 I've decided to remove myself from GitHub as much as possible. T
 
 I have deleted almost all of my repos. I've kept a few which have contributors who might still care to have the repos around for historical purposes.
 
-If you'd like to see my free software: https://git.aikuro.net/poems
+If you'd like to see my free software: https://git.aikuro.net
